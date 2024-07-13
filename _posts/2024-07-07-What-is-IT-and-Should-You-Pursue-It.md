@@ -12,7 +12,7 @@ You may be considering a career in IT or transitioning into IT from a different 
 
 ## What is IT?
 
-IT is commonly used as an abbreviation for Information Technology. Now that we know that, I can confidently say "IT" and know you understand. IT is simply the study and application of technology. Furthermore, IT refers to use of computers, networks, and other forms of tech to store, manage, retrieve, process , and transmit data in a multitude of forms. This is a broad field that will encompass a wide range of technical activities such as managing computer systems and networks to maintaining and manipulating software applications, ensuring cybersecurity and also providing technical support to users or even organizations. You will more than likely see this exact definition on my soon to come post about IT as a whole.
+IT is commonly used as an abbreviation for Information Technology. Now that we know that, I can confidently say "IT" and know you understand. IT is simply the study and application of technology. Furthermore, IT refers to use of computers, networks, and other forms of tech to store, manage, retrieve, process, and transmit data in a multitude of forms. This is a broad field that will encompass a wide range of technical activities such as managing computer systems and networks to maintaining and manipulating software applications, ensuring cybersecurity and also providing technical support to users or even organizations. You will more than likely see this exact definition on my soon to come post about IT as a whole.
 
 
 ## Isn't IT Just Computer Science?
