@@ -30,7 +30,7 @@ IT is often considered to be under the broader umbrella of computer science, whi
 - **Information Technology:** IT on the other hand, will have its dominent focus on the management, integration, and support of the technology to gain leverage on business issues and use that levereage to make the task at hand more **efficent**, which you will find to be the key objective of most IT Operations in a business standard. This will consist of, but again not limited to:
 	- System Administration
 	- Network Administation
-	- Database management
+	- Database Management
 	- Business Managed Services
 	- Cybersecurity
 	- Cloud Computing / Virtualization
@@ -50,6 +50,7 @@ Now, the intriguing part of this article: Is IT the right fit for you? People pu
 	- Career Opportunities
 	- Innovative Mind
 	- Problem-Solving
+	- Heart to Help Others
 
 - **Ulterior Motive's to Pursuing IT Career:**
 	- Sole focus on **Monetary Gain**
@@ -57,7 +58,7 @@ Now, the intriguing part of this article: Is IT the right fit for you? People pu
 	- Reliance on Hearsay
 	- Influence from Social Media
 	
-These are valid points regarding why people choose IT as a field. I've highlighted monetary gain because a significant number of people I meet pursuing this field talk about the money they expect to make or cite it as their primary motivation. Let me be clear: if your sole purpose for pursuing IT, or any STEM field for that matter, is monetary gain, you are unlikely to see it through. These tech jobs are demanding and require genuine technical skills to handle day-to-day tasks effectively. It's essential to have a genuine interest in technology if you want to succeed in this field, as the tech world evolves rapidly every day. I hope this article helps you decide whether to join this field with the confidence that you will succeed.
+These are valid points regarding why people choose IT as a field. I've highlighted monetary gain because a significant number of people I meet pursuing this field talk about the money they expect to make or cite it as their primary motivation. Let me be clear: if your sole purpose for pursuing IT, or any STEM field for that matter, is monetary gain, you are unlikely to see it through. These tech jobs are demanding and require genuine technical skills to handle day-to-day tasks effectively and **efficiently**. It's essential to have a genuine interest in technology if you want to succeed in this field, as the tech world evolves rapidly every day. I hope this article helps you decide whether to join this field with the confidence that you will succeed. Again, this is a modicum of my opinion. Please use your discretion when choosing to pursue different fields and follow steps that align with your own core values. 
 
 ## Conclusion
 
